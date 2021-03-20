@@ -1,0 +1,10 @@
+from colorama import Fore, Back, Style 
+print(Fore.RED + 'some red text') 
+print(Fore.YELLOW + 'some YELLOW text') 
+print(Fore.GREEN + 'some GREEN text') 
+print(Fore.BLUE + 'some BLUE text') 
+print(Fore.CYAN + 'some CYAN text') 
+print(Back.YELLOW + 'and with a green background') 
+print(Style.DIM + 'and in dim text') 
+print(Style.RESET_ALL) 
+print('back to normal now') 
