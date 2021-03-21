@@ -1,5 +1,5 @@
-a = "this is a string made by me"
-a= a.split(" ")
+line= "this is a string made by me"
+line= a.split(" ")
 print(a)
-a = "-".join(a)
+line = "-".join(a)
 print(a)
