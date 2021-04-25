@@ -20,7 +20,7 @@ while(g<4):
             f= e+g
             print(vals[f] , end = " ")
         else:
-            f= e-e
+            f= 0+g
             print(vals[f] , end = " ")
             e=e+1
     
